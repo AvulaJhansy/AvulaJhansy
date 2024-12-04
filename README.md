@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision and NLP.** 
 
-- 💬 Ask me about **Python, SQL, Data Science, Deep Learning, Object-Oriented Programming - Java.**
+- 💬 Ask me about **Python, SQL, Data Science, Deep Learning**
 
 - 📫 How to reach me: [avulajhansy6@gmail.com](mailto:avulajhansy6@gmail.com)
 
